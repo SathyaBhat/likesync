@@ -11,7 +11,7 @@ Resources:
       CodeUri: src/likesync
       Handler: handler.handler
       Runtime: python3.8
-      MemorySize: 3008
+      MemorySize: 512
       Timeout: 30
       Tracing: Active
       Policies:
